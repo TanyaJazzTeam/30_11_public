@@ -8,6 +8,7 @@
               "continent": "Europe",
               "country": "France",
               "capital": "Paris",
+	      "day": "monday",				
               "bool": true
           },
           {
